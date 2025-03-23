@@ -105,13 +105,6 @@ The application features a simple authentication system. Only authorized personn
 
 The application is optimized for 2" x 1" thermal labels, commonly used for asset tracking. Each barcode is generated at 600x300 pixels for optimal print quality.
 
-## Deployment
-
-This application can be deployed to Vercel with a single click:
-
-[
-
-](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fpcd-asset-labeling-system)
 
 ## Contributing
 
